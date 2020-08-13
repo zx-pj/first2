@@ -18,7 +18,7 @@ public class SingleTon1 {
     public final static SingleTon1 INSTANCE = new SingleTon1();  //public修饰，可以使用类名.的方式
 
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("aaaaaaaaa");
     }
 
 }
